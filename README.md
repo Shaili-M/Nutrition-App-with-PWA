@@ -1,6 +1,7 @@
 # Nutrition Application with PWA
 
 ![Image of screenshot nutrition-app](https://i.imgur.com/SSiGiER.jpg)
+👉[Click to visit site](https://jayantk07.github.io/nutrition-app-with-pwa/).
 
 __Project Features__
 
@@ -8,14 +9,12 @@ __Project Features__
 - Search and add new food items to todays date
 - Responsive design (mobile and desktop)
 
-### Packages
+__Packages__
 
 - [create-react-app](https://github.com/facebook/create-react-app)
 - [material-ui](https://material-ui.com/) - Google's Material Design in easy to use React components
 - [styled-components](https://www.styled-components.com/)
 - [redux](https://redux.js.org/introduction/getting-started) - cross-component state management
-
-[Click here to go to their portal.](https://jayantk07.github.io/nutrition-app-with-pwa/).
 
 __Install__
 
